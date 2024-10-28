@@ -39,7 +39,7 @@ export const Footer = () => {
                 <h2 className="text-2xl font-bold italic">multiflix</h2>
               </div>
             </div>
-            <p className="text-sm text-muted-foreground">Created with &hearts; by Manjunath R</p>
+            <p className="text-sm text-muted-foreground">Created with &hearts; by Mussab S</p>
           </div>
           <div>
             <Link

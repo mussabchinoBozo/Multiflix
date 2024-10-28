@@ -70,6 +70,6 @@ https://github.com/user-attachments/assets/d0f31ffd-235a-40a2-84cb-bda56f6e9ed9
 
 ---
 
-Created with ❤️ by Manjunath R
+Created with ❤️ by Mussab
 
 🎞️ Data provided by TMDB API.
